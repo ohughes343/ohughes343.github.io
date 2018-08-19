@@ -1,2 +1,2 @@
-# ohughes343.github.io
+# owenhughes.info
 there's no evidence that dvorak is better than qwerty
