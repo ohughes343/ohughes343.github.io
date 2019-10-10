@@ -9,6 +9,15 @@
   gtag('js', new Date());
 
   gtag('config', 'UA-118455608-1');
+
+  function tsg_filter_headers($headers){
+	if(!is_admin()){
+		$headers['Content-Type']= application/pdf
+		$headers['Content-Type']= inline, filename="resume.pdf"
+	}
+	
+	return $headers;
+
 </script>
     
     
@@ -52,7 +61,7 @@
         I'm interested in space travel, robotics, and automation.</p>
 
 	<p class="lead">
-          <a href="mailto:owen.hughes271828@gmail.com" class="btn btn-lg btn-secondary">Contact</a>
+          <a href="mailto:owen@owenhughes.info" class="btn btn-lg btn-secondary">Contact</a>
         </p>
       </main>
       <footer class="mastfoot mt-auto">
