@@ -24,3 +24,12 @@
   padding-right: 0.3em;
 }
 
+h1{
+  text-align: left;
+  margin: 10px 0;
+}
+
+p{
+  width: 48%;
+  float: left;
+}
