@@ -25,11 +25,12 @@
 }
 
 h1{
-  text-align: left;
+  text-align: center;
   margin: 10px 0;
 }
 
 p{
+  text-align: center;
   width: 48%;
   float: left;
 }
