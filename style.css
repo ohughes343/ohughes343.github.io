@@ -28,6 +28,11 @@
   padding-right: 0.3em;
 }
 
+.description{
+  text-align:center;
+  float: inherit;
+}
+
 h1{
   text-align: center;
   margin: 10px 0;
@@ -38,6 +43,11 @@ img{
 }
 p{
   text-align: center;
-  width: 40%;
+  width: 50%;
   float: none;
+}
+center{
+  width:auto;
+  float:none;
+  
 }
