@@ -19,6 +19,10 @@
   display: inline;
 }
 
+.note{
+  text-align: center;
+}
+
 .menu > li + li:before {
   content: "|";
   padding-right: 0.3em;
