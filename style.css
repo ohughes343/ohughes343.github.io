@@ -43,11 +43,13 @@ img{
 }
 p{
   text-align: center;
-  width: 50%;
+  width: 40%;
+  left: 30%;
+  
   float: none;
 }
 center{
-  width:auto;
-  float:none;
-  
+  text-align: center;
+  width: 40%;
+  left: 30%;
 }
