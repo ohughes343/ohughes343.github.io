@@ -28,9 +28,12 @@ h1{
   text-align: center;
   margin: 10px 0;
 }
-
+img{
+  box-align: center;
+  float:none;
+}
 p{
   text-align: center;
-  width: 48%;
-  float: left;
+  width: 40%;
+  float: none;
 }
